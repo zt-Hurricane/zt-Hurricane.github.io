@@ -8,7 +8,7 @@ layout: default
 
 ## 我做过什么
 
-- [锁面板治具与锁喇叭治具验收与设计优化](/projects/jig-design)
+- [8寸改16寸镭雕治具验收与设计优化](/projects/jig-design)
 - [传送带故障排查与预防方案](/projects/conveyor-troubleshooting)
 - [电子价签产线工艺流程图绘制](/projects/process-mapping)
 - [轻量化设计学习笔记与实践](/projects/lightweight-design)
