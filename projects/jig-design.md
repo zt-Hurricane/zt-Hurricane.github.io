@@ -28,5 +28,5 @@ title: 8寸改16寸镭雕治具验收与设计优化
 </model-viewer>
 
 <script type="module" 
-    src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js">
+    src="https://cdn.jsdelivr.net/npm/@google/model-viewer@3.5.0/dist/model-viewer.min.js">
 </script>
