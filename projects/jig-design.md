@@ -19,7 +19,7 @@ title: 8寸改16寸镭雕治具验收与设计优化
 - [下载三维模型（STEP格式）](/projects/%5B%E8%A3%85%E9%85%8D%E4%BD%93%5D16%E5%AF%B8%E9%95%AD%E9%9B%95%E5%B7%A5%E8%A3%85%208.11.zip)
 [HTML-Artifacts.html](https://github.com/user-attachments/files/31014545/HTML-Artifacts.html)
 <model-viewer 
-    src="/models/jig-design.glb" 
+    src="[/models/jig-design.glb](https://github.com/zt-Hurricane/zt-Hurricane.github.io/blob/main/projects/16%E5%AF%B8%E9%95%AD%E9%9B%95%E5%B7%A5%E8%A3%85.glb)" 
     alt="锁面板治具三维模型" 
     auto-rotate 
     camera-controls 
